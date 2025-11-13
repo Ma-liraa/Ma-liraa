@@ -7,13 +7,13 @@ My journey is rooted in crafting clean, performant, and responsive web applicati
 
 I primarily focus on the modern web ecosystem, leveraging powerful tools and languages to bring ideas to life. My main technologies include:
 
-React and Next.js for robust and scalable applications.
+.  React and Next.js for robust and scalable applications.
 
-TypeScript for type safety and writing maintainable code.
+.  TypeScript for type safety and writing maintainable code.
 
-JavaScript (including Node.js/Express fundamentals).
+.  JavaScript (including Node.js/Express fundamentals).
 
-(I also have foundational knowledge in Python.)
+.  (I also have foundational knowledge in Python.)
 
 🚀 What I'm Building & Why I'm Here:
 
