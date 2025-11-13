@@ -1,13 +1,23 @@
 # 💫 About Me:
-**💻 Senior-Track Frontend Developer | 3 Years Experience | TypeScript & Next.js Specialist.**
+👋 Hello World! I'm a passionate Front-End Developer with a keen eye for detail and a drive to build exceptional user experiences.
 
-I specialize in architecting **performant**, user-facing applications (SPAs) with Next.js, leveraging **TypeScript** to ensure robust, large-scale codebases. 
-🚀
+My journey is rooted in crafting clean, performant, and responsive web applications. Currently, I am expanding my horizons into back-end development, specifically diving deep into the Node.js, Express, and MongoDB stack to become a full-stack contributor.
 
-Actively committed to a Full-Stack transition, I am currently mastering **Node.js, Express.js, and MongoDB** fundamentals, along with general backend schema design principles. 📚
+💻 My Core Stack:
 
-**🤝 Looking to collaborate on:** Type-safe Frontend projects or entry-level Node/Express API implementations.
+I primarily focus on the modern web ecosystem, leveraging powerful tools and languages to bring ideas to life. My main technologies include:
 
+React and Next.js for robust and scalable applications.
+
+TypeScript for type safety and writing maintainable code.
+
+JavaScript (including Node.js/Express fundamentals).
+
+(I also have foundational knowledge in Python.)
+
+🚀 What I'm Building & Why I'm Here:
+
+My GitHub is a dynamic space dedicated to both professional growth and personal exploration. It primarily features web development projects, alongside fun, experimental side projects. I use this platform as my central archive to document and refine my code. More importantly, I’m here to embrace the constant cycle of learning by diving into new technologies—especially the MERN/Mongo stack—and showcasing my progress.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ma.__.liraa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ma__liraa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maliravi.dev@gmail.com) 
