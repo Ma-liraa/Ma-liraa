@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I'm currently working on: Building performant, user-facing applications using TypeScript and Next.js, while actively expanding my skill set to achieve a Full-Stack Web Developer role.<br><br>👯 I'm looking to collaborate on: Projects that utilize TypeScript to ensure type safety in large Frontend codebases, and entry-level Backend tasks on Node.js/Express.js applications.<br><br>🤝 I'm looking for help with: Deepening my understanding of MongoDB schema design and advancing beyond the foundational level in Node.js and Express.js service implementation.<br><br>🌱 I'm currently learning: Backend development fundamentals, focusing heavily on Node.js, Express.js, and MongoDB to complete my transition into a Full-Stack developer.<br><br>💬 Ask me about: Frontend architecture, leveraging TypeScript in professional projects, single-page applications (SPA), and my 3 years of experience in the web development industry.<br><br>⚡ Fun fact: After 3 years of focusing on the user interface, I am enjoying the logical challenge of building APIs and managing data persistence in the backend!
+**💻 Senior-Track Frontend Developer | 3 Years Experience | TypeScript & Next.js Specialist.**
+
+I specialize in architecting **performant**, user-facing applications (SPAs) with Next.js, leveraging **TypeScript** to ensure robust, large-scale codebases. 
+🚀
+
+Actively committed to a Full-Stack transition, I am currently mastering **Node.js, Express.js, and MongoDB** fundamentals, along with general backend schema design principles. 📚
+
+**🤝 Looking to collaborate on:** Type-safe Frontend projects or entry-level Node/Express API implementations.
 
 
 ## 🌐 Socials:
