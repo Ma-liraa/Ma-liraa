@@ -72,11 +72,8 @@
 ---
 <div align="center">
 
-<h6 align="center">
   Thanks for stopping by! 💙
-</h6>  
-<h6 align="center">
+
   Let's build something awesome together! ✨
-</h6>
 
 </div>
