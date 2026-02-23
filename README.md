@@ -75,7 +75,7 @@ Blending the most modern web tools (MERN/Next.js) with classic roots (Fortran & 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ma-liraa&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="195" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ma-liraa&theme=radical&hide_border=true" height="195" />
 </div>
 
 ---
