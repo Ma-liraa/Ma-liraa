@@ -1,13 +1,14 @@
 <div align="center">
-
-  <!-- Typing Animation - خیلی جذاب! -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Hey+👋+What's+Up%3F;I'm+Ma-liraa;Full-Stack+Developer+%F0%9F%92%BB;From+React+to+Fortran;Building+the+web+with+passion" alt="Typing SVG" />
-
   <img height="220" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
+</div >
 
-  <h3>Turning coffee into clean, beautiful code ✨</h3>
-
-</div>
+  <div align="center"><!-- Typing Animation - خیلی جذاب! -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Hey+👋+What's+Up%3F;I'm+Ma-liraa;Full-Stack+Developer+%F0%9F%92%BB;From+React+to+Fortran;Building+the+web+with+passion" alt="Typing SVG" />
+    </div >
+    
+ <div align="center">
+    <h3>Turning coffee into clean, beautiful code ✨</h3>
+ </div>
 
 ---
 
@@ -27,7 +28,8 @@
 
 <div align="center">
 
-**Frontend**  
+**Frontend** 
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -41,12 +43,14 @@
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge)
 
 **Backend & Database**  
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
 
 **Languages & Tools**  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
