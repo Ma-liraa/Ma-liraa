@@ -16,7 +16,7 @@
 <div align="center">
 <H3>Frontend</H3>
 </div>
- 
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,7 +29,6 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-
 
 <div align="center">
 <H3>Backend & Database</H3>
@@ -64,8 +63,11 @@
 ---
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+</div>
 ---
 
 <div align="center">
