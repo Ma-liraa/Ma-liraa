@@ -68,11 +68,15 @@
   
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 </div>
----
 
+---
 <div align="center">
 
-**Thanks for stopping by!** 💙  
-**Let's build something awesome together! ✨**
+<h3 align="center">
+  Thanks for stopping by! 💙
+</h3>  
+<h3 align="center">
+  Let's build something awesome together! ✨
+</h3>
 
 </div>
