@@ -72,11 +72,11 @@
 ---
 <div align="center">
 
-<h3 align="center">
+<h6 align="center">
   Thanks for stopping by! 💙
-</h3>  
-<h3 align="center">
+</h6>  
+<h6 align="center">
   Let's build something awesome together! ✨
-</h3>
+</h6>
 
 </div>
