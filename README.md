@@ -1,66 +1,97 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding Animation" />
-</div>
 
-<h1 align="center">Hey 👋 Welcome to my GitHub!</h1>
+  <!-- Typing Animation - خیلی جذاب! -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Hey+👋+What's+Up%3F;I'm+Ma-liraa;Full-Stack+Developer+%F0%9F%92%BB;From+React+to+Fortran;Building+the+web+with+passion" alt="Typing SVG" />
 
-<p align="center">
-  <strong>Computer Engineering Student | AI Enthusiast | Web Developer</strong>
-</p>
+  <img height="220" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
 
----
+  <h3>Turning coffee into clean, beautiful code ✨</h3>
 
-### 💫 About Me:
-
-🔭 I’m currently working on **my undergrad thesis: Cartoonizing images using GAN models! 🎨** 🌱 I’m currently learning **Advanced React patterns & diving deep into AI academic papers 🧠** 🤝 I’m looking for help with **Optimizing deep learning model training on Google Colab 🚀** 👯 I’m looking to collaborate on **Open-source AI projects & Creative Frontend applications** 💬 Ask me about **Computer Engineering, Frontend Dev, and bringing Ghibli/Shinkai aesthetics to life via code!** ⚡ Fun fact: **I can spend hours debugging a model just to get the perfect anime-style sky. ☁️** ---
-
-### 💻 Tech Stack:
-
-**🌐 Frontend Development** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
-
-**⚙️ Backend & Database** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)  
-
-**🐍 Languages & Algorithms** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)  
-
-**🔧 Tools & Architecture** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)  
-
----
-
-### 📊 GitHub Stats & Activity:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ma-liraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ma-liraa&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-liraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ma-liraa&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 🏆 Top Contributed & Inspiration
+### 💫 About Me
+
+**Passionate Full-Stack Developer** که عاشق تبدیل ایده‌های خام به تجربه‌های دیجیتال فوق‌العاده‌ست. ترکیب مدرن‌ترین ابزارهای وب (MERN/Next.js) با ریشه‌های قدیمی (Fortran & Python) بهم کمک می‌کنه همیشه یه نگاه متفاوت داشته باشم.
+
+- 🔭 **Currently working on**: وب‌اپلیکیشن‌های نسل بعدی + интеграция با هوش مصنوعی
+- 👯 **Looking to collaborate on**: پروژه‌های اوپن‌سورس، استارتاپ‌های باحال و هر چیزی که چالش‌برانگیز باشه
+- 🌱 **Currently learning**: Advanced Next.js، System Design و Cloud Native
+- 💬 **Ask me about**: معماری React، بک‌اند Node.js، Tailwind Mastery یا نوستالژی Fortran
+- ⚡ **Fun fact**: می‌تونم تو یه روز بین نوشتن کامپوننت React و کد Fortran قدیمی سوئیچ کنم!
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ma-liraa&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos" />
-</div>
 
-<br>
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white&style=for-the-badge)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge)
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=black&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black&style=for-the-badge)
+
 </div>
 
 ---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ma-liraa&icon=2&color=12" alt="Profile Views" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ma-liraa&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="195" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ma-liraa&theme=radical&hide_border=true" height="195" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-liraa&theme=radical&hide_border=true&layout=compact" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ma-liraa&theme=radical&no-frame=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔥 Top Contributed Repos
+
+![](https://github-contributor-stats.vercel.app/api?username=Ma-liraa&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+<div align="center">
+
+**Thanks for stopping by!** 💙  
+بیا با هم چیزی خفن بسازیم ✨
+
+[![](https://visitcount.itsvg.in/api?id=Ma-liraa&icon=5&color=6366f1)](https://visitcount.itsvg.in)
+
 </div>
