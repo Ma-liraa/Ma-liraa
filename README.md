@@ -3,12 +3,9 @@
 </div >
 
   <div align="center"><!-- Typing Animation - خیلی جذاب! -->
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Hey+👋+What's+Up%3F;I'm+Ma-liraa;Full-Stack+Developer+%F0%9F%92%BB;From+React+to+Fortran;Building+the+web+with+passion" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Hey+👋+What's+Up%3F;I'm+Hurad(Mohammad Ali Liravi);Full-Stack+Developer+%F0%9F%92%BB;From+React+to+NodeJs;Building+the+web+with+passion" alt="Typing SVG" />
     </div >
-    
- <div align="center">
-    <h3>Turning coffee into clean, beautiful code ✨</h3>
- </div>
+  
 
 ---
 
