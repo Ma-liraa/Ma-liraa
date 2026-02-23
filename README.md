@@ -30,7 +30,7 @@ Blending the most modern web tools (MERN/Next.js) with classic roots (Fortran & 
 <div align="center">
   
 <div align="center">
- **Frontend** 
+<H3>Frontend</H3>
 </div>
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,16 +48,18 @@ Blending the most modern web tools (MERN/Next.js) with classic roots (Fortran & 
 
 
 <div align="center">
-  **Backend & Database**  
+<H3>Backend & Database</H3>
 </div>
+
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 <div align="center">
-  **Languages & Tools**  
+<H3>Languages & Tools</H3> 
 </div>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -74,34 +76,18 @@ Blending the most modern web tools (MERN/Next.js) with classic roots (Fortran & 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ma-liraa&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="195" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ma-liraa&theme=radical&hide_border=true" height="195" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-liraa&theme=radical&hide_border=true&layout=compact" />
 </div>
 
 ---
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Ma-liraa&theme=radical&no-frame=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔥 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=Ma-liraa&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
 <div align="center">
 
 **Thanks for stopping by!** 💙  
-بیا با هم چیزی خفن بسازیم ✨
-
-[![](https://visitcount.itsvg.in/api?id=Ma-liraa&icon=5&color=6366f1)](https://visitcount.itsvg.in)
+**Let's build something awesome together! ✨**
 
 </div>
