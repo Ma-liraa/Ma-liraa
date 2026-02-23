@@ -12,19 +12,6 @@
 
 ---
 
-### 💫 About Me
-
-**Passionate Full-Stack Developer** who loves turning raw ideas into extraordinary digital experiences.  
-Blending the most modern web tools (MERN/Next.js) with classic roots (Fortran & Python) gives me a unique perspective every time.
-
-- 🔭 **Currently working on**: Next-generation web applications + AI Integration  
-- 👯 **Looking to collaborate on**: Open-source projects, cool startups & anything challenging  
-- 🌱 **Currently learning**: Advanced Next.js, System Design & Cloud Native  
-- 💬 **Ask me about**: React Architecture, Node.js Backend, Tailwind Mastery or Fortran nostalgia  
-- ⚡ **Fun fact**: I can switch between writing a React component and legacy Fortran code in the same day!
----
-
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -68,10 +55,9 @@ Blending the most modern web tools (MERN/Next.js) with classic roots (Fortran & 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
 </div>
----
 
+---
 ### 📊 GitHub Stats
 
 <div align="center">
