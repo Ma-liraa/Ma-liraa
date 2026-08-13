@@ -35,8 +35,6 @@ Avista is currently being redesigned and will evolve into a full-stack product w
 
 **Status:** `In Development`
 
-[Repository](YOUR_AVISTA_REPOSITORY_URL)
-
 ---
 
 ### NextShop
@@ -49,7 +47,7 @@ The frontend is designed and developed by me and integrates with an existing Nod
 
 **Stack:** `Next.js` · `TypeScript` · `Tailwind CSS`
 
-[Live Demo](YOUR_NEXTSHOP_LIVE_URL) · [Repository](YOUR_NEXTSHOP_REPOSITORY_URL)
+[Live Demo](YOUR_NEXTSHOP_LIVE_URL) · [Repository](https://github.com/Ma-liraa/NextShop)
 
 ---
 
@@ -63,7 +61,7 @@ The frontend integrates with an existing Node.js / Express backend.
 
 **Stack:** `Next.js` · `TypeScript` · `Tailwind CSS`
 
-[Live Demo](YOUR_WEBLAGINO_LIVE_URL) · [Repository](YOUR_WEBLAGINO_REPOSITORY_URL)
+[Live Demo](YOUR_WEBLAGINO_LIVE_URL) · [Repository](https://github.com/Ma-liraa/Weblagino)
 
 ---
 
@@ -75,7 +73,7 @@ The personal portfolio and digital home of the HURAD personal brand.
 
 **Stack:** `Next.js` · `React` · `TypeScript`
 
-[Website](https://hurad-portfolio.vercel.app/) · [Repository](YOUR_HURAD_REPOSITORY_URL)
+[Website](https://hurad-portfolio.vercel.app/) · [Repository](https://github.com/Ma-liraa/Hurad)
 
 ---
 
