@@ -47,7 +47,7 @@ The frontend is designed and developed by me and integrates with an existing Nod
 
 **Stack:** `Next.js` · `TypeScript` · `Tailwind CSS`
 
-[Live Demo](YOUR_NEXTSHOP_LIVE_URL) · [Repository](https://github.com/Ma-liraa/NextShop)
+[Live Demo](https://next-shop-hurad.vercel.app/) · [Repository](https://github.com/Ma-liraa/NextShop)
 
 ---
 
