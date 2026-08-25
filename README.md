@@ -61,7 +61,7 @@ The frontend integrates with an existing Node.js / Express backend.
 
 **Stack:** `Next.js` · `TypeScript` · `Tailwind CSS`
 
-[Live Demo](YOUR_WEBLAGINO_LIVE_URL) · [Repository](https://github.com/Ma-liraa/Weblagino)
+[Live Demo](https://weblagino-nine.vercel.app/) · [Repository](https://github.com/Ma-liraa/Weblagino)
 
 ---
 
