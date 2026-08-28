@@ -1,51 +1,61 @@
 # HURAD
 
-### Product-minded Frontend Engineer
+### Frontend Engineer · React · Next.js · TypeScript
 
-I'm **Mohammad Ali Liravi**, a frontend engineer with 5 years of experience building real-world web applications for clients and teams.
+I build modern web products with a focus on **clean architecture, thoughtful UI, and real-world usability**.
 
-My primary focus is **React, Next.js, and TypeScript**, with a growing focus on backend development using **Node.js**.
-
-I enjoy turning ideas into practical, modern, and maintainable web products.
+My main stack is **React, Next.js, and TypeScript**, while I'm expanding into backend development with **Node.js and Express**.
 
 ---
 
-## 🧭 What I Build
+## What I Do
 
-* Modern web applications
-* Product-focused frontend experiences
-* E-commerce applications
-* Responsive and accessible interfaces
-* API-driven applications
-* Full-stack products with Node.js
+* Build production-ready web applications
+* Develop scalable frontend architectures
+* Create responsive and accessible interfaces
+* Build e-commerce and API-driven applications
+* Turn product ideas into usable digital experiences
+* Work across the frontend and backend when needed
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### Avista
+**Frontend**
 
-**Avestan language learning platform**
+`TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS`
 
-A personal project focused on teaching the Avestan language.
+**Backend**
 
-Avista is currently being redesigned and will evolve into a full-stack product with a modern Next.js frontend and a Node.js backend.
+`Node.js` `Express` `MongoDB` `REST API`
 
-**Stack:** `Next.js` · `TypeScript`
+**Tools**
 
-**Status:** `In Development`
+`Git` `GitHub` `Postman`
+
+---
+
+## Selected Work
+
+### AVISTA
+
+**A platform for learning the Avestan script.**
+
+A personal product focused on making the Avestan script easier to learn and explore through an interactive web experience.
+
+`Next.js` `TypeScript`
+
+**In development**
 
 ---
 
 ### NextShop
 
-**Modern e-commerce application**
+**E-commerce application built with Next.js.**
 
-A modern e-commerce frontend built with Next.js and Tailwind CSS.
+A modern frontend connected to a Node.js / Express backend, with a focus on responsive UI and practical product flows.
 
-The frontend is designed and developed by me and integrates with an existing Node.js / Express backend.
-
-**Stack:** `Next.js` · `TypeScript` · `Tailwind CSS`
+`Next.js` `TypeScript` `Tailwind CSS`
 
 [Live Demo](https://next-shop-hurad.vercel.app/) · [Repository](https://github.com/Ma-liraa/NextShop)
 
@@ -53,13 +63,11 @@ The frontend is designed and developed by me and integrates with an existing Nod
 
 ### Weblagino
 
-**Modern web application**
+**Modern web application with a Next.js frontend.**
 
-A modern web application with a frontend designed and developed by me using Next.js and Tailwind CSS.
+A frontend application designed and developed around an API-driven architecture and an existing Node.js / Express backend.
 
-The frontend integrates with an existing Node.js / Express backend.
-
-**Stack:** `Next.js` · `TypeScript` · `Tailwind CSS`
+`Next.js` `TypeScript` `Tailwind CSS`
 
 [Live Demo](https://weblagino-nine.vercel.app/) · [Repository](https://github.com/Ma-liraa/Weblagino)
 
@@ -67,55 +75,55 @@ The frontend integrates with an existing Node.js / Express backend.
 
 ### HURAD
 
-**Personal portfolio & brand**
+**Personal portfolio and digital home.**
 
-The personal portfolio and digital home of the HURAD personal brand.
+My personal portfolio showcasing selected work, skills, and experiments.
 
-**Stack:** `Next.js` · `React` · `TypeScript`
+`Next.js` `React` `TypeScript`
 
 [Website](https://hurad-portfolio.vercel.app/) · [Repository](https://github.com/Ma-liraa/Hurad)
 
 ---
 
-## 🛠️ Core Stack
+## Currently
 
-### Frontend
+🔨 Building **AVISTA**
 
-`TypeScript` · `React` · `Next.js` · `Tailwind CSS`
+🌐 Working with **Next.js & TypeScript**
 
-### Backend
+⚙️ Going deeper into **Node.js & backend development**
 
-`Node.js` · `Express` · `REST APIs` · `MongoDB`
-
-### Tools
-
-`Git` · `GitHub` · `Postman`
+🧠 Exploring better patterns for scalable frontend architecture
 
 ---
 
-## 🌱 Currently
+## Beyond Code
 
-* Building and evolving **Avista** into a full-stack product
-* Deepening my backend development skills with **Node.js**
-* Improving my approach to scalable and maintainable web products
-* Exploring better ways to connect product thinking with frontend engineering
+I care about more than just making things work.
+
+I enjoy thinking about:
+
+* UI/UX
+* Product design
+* Developer experience
+* Clean and maintainable code
+* Building things that people actually want to use
 
 ---
 
-## 🤝 Connect
+## Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/mohammad-ali-liravi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
+<p align="left">
   <a href="https://hurad-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-HURAD-111111?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-HURAD-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-ali-liravi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Building products, learning continuously, and improving one project at a time.</sub>
+  <sub>Build useful things. Keep learning. Ship better.</sub>
 </p>
